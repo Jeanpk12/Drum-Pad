@@ -28,6 +28,6 @@
   <li><strong>script.js</strong>: Lógica de programação em JavaScript responsável pela interatividade do aplicativo.</li>
   <li><strong>/sounds</strong>: Pasta que contém os arquivos de áudio para cada tecla.</li>
 </ul>
-<h2>Agradecimentos</h2>
-<p>Este projeto foi criado durante o curso "7 Projetos em 7 Dias". Apreciamos a comunidade e os desenvolvedores que contribuíram para tornar este aplicativo possível.</p>
+<h2>Créditos</h2>
+<p>Este projeto foi criado durante o curso "7 Projetos em 7 Dias".</p>
 <p>Divirta-se criando suas próprias batidas musicais! 🥁</p>
