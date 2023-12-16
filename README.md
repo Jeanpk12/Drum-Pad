@@ -3,6 +3,7 @@
 
 ![image](https://github.com/Jeanpk12/Drum-Pad/assets/122842874/b928648a-a1cb-4bcd-b6db-6fda4ef6bbb0)
 
+<a href="https://jeanpk12.github.io/Drum-Pad/" target="_blank"></a>
 
 <h2>Funcionalidades</h2>
 <h3>Teclas do Drum Pad</h3>
