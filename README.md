@@ -1,6 +1,9 @@
 <h1>Projeto Drum Pad</h1>
 <p>Bem-vindo ao projeto Drum Pad! Este é um aplicativo simples desenvolvido em HTML, CSS e JavaScript que permite criar batidas musicais usando o teclado do seu computador.</p>
 
+![image](https://github.com/Jeanpk12/Drum-Pad/assets/122842874/b928648a-a1cb-4bcd-b6db-6fda4ef6bbb0)
+
+
 <h2>Funcionalidades</h2>
 <h3>Teclas do Drum Pad</h3>
 <ul>
